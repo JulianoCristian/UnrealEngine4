@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 2,
+
+	"FriendlyName" : "UE_4Cardboard",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "GameDev",
+	"CreatedByURL" : "http://gamedev.com.br",
+	"EngineVersion" : "4.14.0",
+	"Description" : "UE4 plugin for simple cardboard teste of validation.",
+	"Category" : "Virtual Reality",
+	"EnabledByDefault" : false,
+
+	"Modules" :
+	[
+		{
+			"Name" : "UE_4Cardboard",
+			"Type" : "Runtime"
+		}
+	]
+}
